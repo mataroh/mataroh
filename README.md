@@ -1,6 +1,6 @@
 ## Olá, sou o Henrique 👾
 
-- 🔭 Atualmente trabalho com Suporte de TI
+- 🔭 Atualmente trabalhando com Suporte de TI
 - 🌱 No momento estou fazendo as formações de SRE e DevOps na Alura, e estudando sobre as ferramentas que mais se utilizam nessas funções
 - 🎯 Busco como meta de carreira atuar em alguma das duas áreas (SRE/DevOps)
 
