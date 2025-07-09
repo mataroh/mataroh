@@ -1,7 +1,7 @@
 ## Olá, sou o Henrique 👾
 
 - 🔭 Atualmente trabalho com Suporte de TI
-- 🌱 Etudando sobre SRE, Python e Redes
+- 🌱 Estudando sobre SRE, Python e Iac atualmente 
 - 📬 Contate-me no e-mail: henriquemataro123@gmail.com
 
 <div>
