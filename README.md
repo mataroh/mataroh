@@ -5,8 +5,8 @@
 - 🎯 Busco como meta de carreira atuar em alguma dessas áreas (SRE/DevOps)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mataroh&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mataroh&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mataroh&show_icons=true&theme=gruvbox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mataroh&layout=compact&theme=gruvbox">
 </div>
 
 <div>
