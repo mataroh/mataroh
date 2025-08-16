@@ -38,9 +38,8 @@
 ## 🏆 Certificados
 
 📜 **Infraestrutura como Código: preparando máquinas na AWS com Ansible e Terraform – Alura**  
-Concluído em **16/08/2025** | Carga horária: 8h  
 
-<img src="https://github.com/mataroh/certificados/blob/master/alura-infra-terraform-ansible.pdf" alt="Certificado Infraestrutura como Código - Henrique Mataro" width="600px">
+<img src="https://github.com/mataroh/certificados/blob/master/alura-infra-terraform-ansible.pdf" alt="Infraestrutura como Código" width="600px">
 
 ---
 
