@@ -39,8 +39,8 @@
 
 📜 **Infraestrutura como Código: preparando máquinas na AWS com Ansible e Terraform – Alura**  
 
-<img src="https://github.com/mataroh/certificados/blob/master/alura-infra-terraform-ansible.pdf" alt="Infraestrutura como Código" width="600px">
-
+<img src="https://github.com/mataroh/certificados/blob/master/Infraestrutura%20como%20c%C3%B3digo_%20preparando%20m%C3%A1quinas%20na%20AWS%20com%20Ansible%20e%20Terraform%20-%20Alura.pdf" alt="Infraestrutura como código" width="600px">
+<img src="https://github.com/mataroh/certificados/blob/master/Ansible_%20implementando%20sua%20infraestrutura%20como%20c%C3%B3digo%20-%20Alura.pdf" alt="Ansible: implementando sua infraestrutura como código" width="600px">
 ---
 
 ## 📫 Onde me encontrar
