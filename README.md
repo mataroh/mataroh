@@ -43,6 +43,9 @@
 [<img src="https://www.alura.com.br/assets/img/alura-logo.1686744883.svg" alt="Alura" width="30"/>](https://github.com/mataroh/certificados/blob/master/Ansible-implementando-sua-infraestrutura-como-codigo-Alura.pdf)
 [**Ansible: Implementando sua infraestrutura como código**](https://github.com/mataroh/certificados/blob/master/Ansible-implementando-sua-infraestrutura-como-codigo-Alura.pdf)
 
+[<img src="https://www.alura.com.br/assets/img/alura-logo.1686744883.svg" alt="Alura" width="30"/>](https://github.com/mataroh/certificados/blob/master/Docker_%20criando%20e%20gerenciando%20containers%20-%20Alura.pdf)
+[**Docker: criando e gerenciando containers**](https://github.com/mataroh/certificados/blob/master/Docker_%20criando%20e%20gerenciando%20containers%20-%20Alura.pdf)
+
 ---
 
 ## 📫 Onde me encontrar
