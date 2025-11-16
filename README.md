@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Ferramentas que estou aprendendo
+## 🛠️ Ferramentas que utilizo
 
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -55,8 +55,8 @@
 ---
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="20"/> CI/CD
-  - [**Integração Contínua Pipeline Docker no Github Actions**](https://github.com/mataroh/certificados/blob/master/Henrique%20Mataro%20Rocha%20-%20Curso%20Integra%C3%A7%C3%A3o%20Cont%C3%ADnua_%20Pipeline%20Docker%20no%20Github%20Actions%20-%20Alura.pdf)
-  - [**Integração Contínua_ pipelines e testes automatizados com GitHub Actions**](https://github.com/mataroh/certificados/blob/master/Integra%C3%A7%C3%A3o%20Cont%C3%ADnua_%20pipelines%20e%20testes%20automatizados%20com%20GitHub%20Actions.pdf)
+  - [**Integração Contínua: Pipeline Docker no Github Actions**](https://github.com/mataroh/certificados/blob/master/Henrique%20Mataro%20Rocha%20-%20Curso%20Integra%C3%A7%C3%A3o%20Cont%C3%ADnua_%20Pipeline%20Docker%20no%20Github%20Actions%20-%20Alura.pdf)
+  - [**Integração Contínua: Pipelines e testes automatizados com GitHub Actions**](https://github.com/mataroh/certificados/blob/master/Integra%C3%A7%C3%A3o%20Cont%C3%ADnua_%20pipelines%20e%20testes%20automatizados%20com%20GitHub%20Actions.pdf)
 
 ---
 
