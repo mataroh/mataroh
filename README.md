@@ -1,6 +1,6 @@
 # Henrique Mataro
 
-🎯 **Suporte de TI**, em transição para **SRE / DevOps / Cloud Engineering**  
+🎯 **Analista de TI/SEC**, em transição para **SRE / DevOps / Cloud Engineering**  
 📚 Estudando práticas modernas de **infraestrutura, automação e observabilidade**  
 🚀 Foco em aprendizado contínuo e projetos práticos
 
